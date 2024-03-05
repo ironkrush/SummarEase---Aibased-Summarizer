@@ -6,7 +6,7 @@ function Hero() {
         <nav className='flex justify-between items-center w-full mb-10 pt-5'>
             <h1 className='text-satoshi font-bold text-2xl '>SummarEase</h1>
 
-            <button type='button' onClick={()=> window.open('https://github.com/ironkrush')} className='black_btn'>
+            <button type='button' onClick={()=> window.open('https://github.com/ironkrush/SummarEase-Aibased-Summarizer')} className='black_btn'>
             GitHub
         </button>
         </nav>
